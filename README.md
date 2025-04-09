@@ -1,6 +1,6 @@
 <!-- Capa personalizada -->
 <div>
-<img src="https://github.com/gemouraa/gemouraa/blob/main/ff0aed10-76f0-4bee-8a58-2769b74cf2d0.jpg"/>
+<img src="https://github.com/gemouraa/gemouraa/blob/main/foto.jpg"/>
 </div>
 
 <!-- Linha gradiente -->
