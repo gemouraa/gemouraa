@@ -1,5 +1,7 @@
 <!-- Capa personalizada -->
-<img src="https://via.placeholder.com/1200x300/4B0082/FFFFFF?text=Guilherme+Moura+-+Desenvolvedor+Full+Stack" alt="Capa Guilherme Moura" style="width:100%;" />
+<div>
+<img src="[https://github.com/gemouraa/gemouraa/blob/main/ff0aed10-76f0-4bee-8a58-2769b74cf2d0.jpg" />
+</div>
 
 <!-- Linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
