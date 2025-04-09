@@ -8,7 +8,7 @@
 
 - 🌱 Estudando: Programação Orientada a Objetos com **Java**  
 - 🚀 Iniciando o projeto **Educalink**
-- 💻 Principais linguagens utilizadas: **Python**, **Java**, **C++**, **Portugol**
+- 💻 Principais linguagens utilizadas: **Python**, **Java**, **C++**
 
 <!-- Contato -->
 ## 🌐 Redes Sociais
@@ -27,7 +27,6 @@
     <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="C++" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Portugol" height="40" width="60" src="https://logospng.org/download/portugol/portugol-256.png">
 </div>
 
 <br><br>
@@ -42,3 +41,4 @@
 
 <!-- Linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+
